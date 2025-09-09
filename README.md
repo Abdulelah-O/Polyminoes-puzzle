@@ -44,7 +44,6 @@ The program reads problem instances from a plain text file. The format is struct
 5
 1 3
 2 5
-
 ```
 
 ## How to Run
@@ -55,9 +54,7 @@ The program reads problem instances from a plain text file. The format is struct
   4. Open CS467-Project.ipynb in Jupyter and modify the file_path variable in the last code cell to point to your desired input file.
 
      ```
-     
      file_path = "path/to/your/ECP_1.txt"
-     
      ```
   5. Run all the cells in the notebook. The output will be printed directly below the code cell.
      

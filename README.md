@@ -11,4 +11,6 @@ This project is an efficient solver for a version of the classic Polyominoes Puz
   - A set **X** (the board)
   - A collection **S** of subsets of **X** (the tiles)
 
-The objective is to find a sub-collection **S*** of S such that:
+The objective is to find a sub-collection **S*** of **S** such that:
+
+  **1. The union of all subsets in S* is equal to X.**
